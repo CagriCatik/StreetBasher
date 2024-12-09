@@ -7,16 +7,35 @@
 
 ---
 
+## Chassis
+| Part Name               | Latest Version | Material            | Supports | Link |
+|-----------------------------|----------------|-------------------|--------|------|
+| Center_Front_bumper.stl     | V1.2          | Tough / Standard  | Yes     | [🔗](../STLs/Chassis/Front-Bumper/Center_Front_bumper.stl)|
+| Front_body_brace_1.stl      | V1.2          | Tough / Standard  | No      | [🔗](../STLs/Chassis/Front-Bumper/Front_body_brace_1.stl)|
+| Front_body_brace_2.stl      | V1.2          | Tough / Standard  | No      | 🔗   |
+| Front_body_brace_insert.stl | V1.2          | Standard          | No      | 🔗   |
+| Front_spliter.stl           | V1.2          | Tough / Flexible  | No      | 🔗   |
+| Rear_difuser_body.stl       | V1.2          | Standard          | Yes     | 🔗   |
+| Rear_wing_brace_L.stl       | V1.2          | Tough / Standard  | No      | 🔗   |
+| Rear_wing_brace_R.stl       | V1.2          | Tough / Standard  | No      | 🔗   |
+| Center_body.stl             | V1.2          | Standard          | Yes     | [🔗](../STLs/Chassis/Center_body.stl)|
+| Front_body.stl              | V1.2          | Standard          | Yes     | 🔗   |
+| Front_brace.stl             | V1.2          | Standard          | No      | 🔗   |
+| Rear_body.stl               | V1.2          | Standard          | Yes     | 🔗   |
+| Rear_brace.stl              | V1.2          | Standard          | No      | 🔗   |
+
+---
+
 ## Body Roll Cage
-| Part Name               | Latest Version | Material            | Supports |
-|-------------------------|----------------|---------------------|----------|
-| Back_Bottom_L.stl       | V1.2          | Tough / Flexible    | Yes      |
-| Back_Bottom_R.stl       | V1.2          | Tough / Flexible    | Yes      |
-| Back_Cage.stl           | V1.2          | Tough / Flexible    | Yes      |
-| Back_Roof.stl           | V1.2          | Tough / Flexible    | No       |
-| Back_Top_L.stl          | V1.2          | Tough / Flexible    | No       |
-| Back_Top_R.stl          | V1.2          | Tough / Flexible    | No       |
-| Front_bumper_bottom.stl | V1.2          | Flexible            | No       |
+| Part Name               | Latest Version | Material            | Supports | Link |
+|-------------------------|----------------|---------------------|----------|------|
+| Back_Bottom_L.stl       | V1.2          | Tough / Flexible    | Yes      | 🔗 |
+| Back_Bottom_R.stl       | V1.2          | Tough / Flexible    | Yes      | |
+| Back_Cage.stl           | V1.2          | Tough / Flexible    | Yes      | |
+| Back_Roof.stl           | V1.2          | Tough / Flexible    | No       | |
+| Back_Top_L.stl          | V1.2          | Tough / Flexible    | No       | |
+| Back_Top_R.stl          | V1.2          | Tough / Flexible    | No       | |
+| Front_bumper_bottom.stl | V1.2          | Flexible            | No       | |
 | Front_bumper_holder_L.stl | V1.2        | Flexible            | No       |
 | Front_bumper_holder_R.stl | V1.2        | Flexible            | No       |
 | Front_bumper_L.stl      | V1.2          | Flexible            | No       |
@@ -94,25 +113,6 @@
 | Shock_adapter_2_2x.stl      | V1.2          | Standard   | No       |
 | Top_arm_holder.stl          | V1.2          | Tough      | No       |
 | Top_plate.stl               | V1.2          | Standard   | No       |
-
----
-
-## Chassis
-| Part Name                   | Latest Version | Material          | Supports |
-|-----------------------------|----------------|-------------------|----------|
-| Center_Front_bumper.stl     | V1.2          | Tough / Standard  | Yes      |
-| Front_body_brace_1.stl      | V1.2          | Tough / Standard  | No       |
-| Front_body_brace_2.stl      | V1.2          | Tough / Standard  | No       |
-| Front_body_brace_insert.stl | V1.2          | Standard          | No       |
-| Front_spliter.stl           | V1.2          | Tough / Flexible  | No       |
-| Rear_difuser_body.stl       | V1.2          | Standard          | Yes      |
-| Rear_wing_brace_L.stl       | V1.2          | Tough / Standard  | No       |
-| Rear_wing_brace_R.stl       | V1.2          | Tough / Standard  | No       |
-| Center_body.stl             | V1.2          | Standard          | Yes      |
-| Front_body.stl              | V1.2          | Standard          | Yes      |
-| Front_brace.stl             | V1.2          | Standard          | No       |
-| Rear_body.stl               | V1.2          | Standard          | Yes      |
-| Rear_brace.stl              | V1.2          | Standard          | No       |
 
 ---
 
