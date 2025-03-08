@@ -1,0 +1,66 @@
+site_name: StreetBasher Instructions
+site_description: A comprehensive guide to mastering StreetBasher with clarity and ease.
+site_author: Mustafa
+repo_url: https://github.com/CagriCatik/StreetBasher
+repo_name: StreetBasher
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.copy
+  language: en
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+      primary: blue
+      accent: orange
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+      primary: blue
+      accent: red
+
+plugins:
+  - search
+  - mkdocstrings:
+      default_handler: python
+      handlers:
+        python:
+          paths: [src]
+          options:
+            show_source: true
+            show_root_heading: true
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+
+nav:
+  - Home: index.md
+  - Getting Started:
+    - Bill of Materials: bom.md
+    - Parts: parts.md
+    - SolidWorks: sldprt.md
+  - Guide:
+      - Technical Specification: guide/01_technical_specification.md
+      - Chassis Main: guide/02_chassis_main.md
