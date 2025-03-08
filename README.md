@@ -1,34 +1,66 @@
-# StreetBasher: 3D-Printed RC Car Project
+# **StreetBasher: 3D-Printed RC Car Project** 🏎️🔧  
 
-**StreetBasher** is an exciting project for radio-controlled car enthusiasts, offering a customizable, 3D-printed RC car. It provides all the resources needed to assemble, modify, and fine-tune your vehicle, including detailed guides, 3D designs, and tuning instructions. Build your StreetBasher and take it for a spin!
+**StreetBasher** is an open-source, 3D-printed RC car designed for enthusiasts who love customization, engineering, and high-speed fun. This project provides everything you need to **assemble, modify, and fine-tune your own RC car**, including **detailed assembly guides, 3D-printable parts, and tuning instructions**.
 
----
-
-## Project Resources
-
-### 1. **Build Guide**  
-- 📄 [Download the Build Guide](./DOCS/original/Build_Guide_StreetBASHER.pdf)  
-A detailed, step-by-step manual for assembling your StreetBasher, from start to finish.
-
-### 2. **Bill of Materials (BOM)**  
-- 📋 [View the Bill of Materials](./DOCS/bom.md)  
-A comprehensive list of all the components and materials you'll need for the build.
-
-### 3. **Printed Parts**  
-- 🖨️ [Access Printed Part Details](./DOCS/parts.md)  
-Specifications and downloadable STL files for the 3D-printed components of the project.
-
-### 4. **SolidWorks Parts**  
-- 💻 [Download SolidWorks Files](./DOCS/sldprt.md)  
-CAD files for those who want to modify, analyze, or customize the design.
-
-### 5. **3D Tuning Guide**  
-- 🔧 [Explore the Tuning Guide](https://ellis3dp.com/Print-Tuning-Guide/articles/index_tuning.html)  
-A guide to optimizing your 3D prints for maximum performance and durability.
+🚀 **Build it. Customize it. Race it!**  
 
 ---
 
-## Ready, Set, Build! 🚗💨  
-Unleash your creativity and engineering skills with StreetBasher. Build, customize, and enjoy the thrill of racing your own 3D-printed RC car!
+## 🔹 **Project Highlights**
+- **Fully 3D-Printed Design:** Print your own chassis, suspension, and other essential components.
+- **Customizable:** Modify the design to fit your preferences, from gearing ratios to wheel types.
+- **Electronics & Hardware Integration:** Supports standard RC electronics, motors, and batteries.
+- **Step-by-Step Documentation:** Easy-to-follow instructions for assembly and tuning.
 
-**Source:** [StreetBasher on Printables](https://www.printables.com/model/700706-street-basher-3d-printed-rc-car-17)
+---
+
+## 📂 **Project Structure**
+```
+StreetBasher/
+│── .github/workflows/       # GitHub Actions for automation & deployment
+│── instructions/            # Documentation & assembly guides
+│   ├── docs/                # MkDocs-based documentation
+│   ├── sldprts/             # SolidWorks design files
+│   ├── stls/                # STL files for 3D printing
+│   ├── mkdocs.yml           # Configuration for MkDocs documentation
+│── original/                # Raw design files or legacy versions
+│── .gitignore               # Ignored files
+│── README.md                # Project overview (this file)
+│── requirements.txt         # Dependencies for documentation setup
+```
+
+---
+
+## 🛠 **Getting Started**
+### **1️⃣ Print the Parts**
+Download the **STL files** from the `instructions/stls/` folder or from the official **Printables page**:  
+➡️ **[StreetBasher on Printables](https://www.printables.com/model/700706-street-basher-3d-printed-rc-car-17)**
+
+### **2️⃣ Gather the Components**
+You’ll need the following:
+- **3D-printed parts** (chassis, arms, suspension, etc.)
+- **RC Electronics:** Brushless motor, ESC, receiver, and transmitter
+- **Battery pack** (LiPo recommended)
+- **Servo motor** for steering
+- **Screws & Fasteners** (size details in the docs)
+
+### **3️⃣ Assemble & Tune**
+Follow the **step-by-step assembly guide** in `instructions/docs/` to build your RC car.  
+Once built, fine-tune it using the tuning instructions for **better handling and speed**.
+
+---
+
+## 📖 **Documentation**
+Complete guides and tutorials are available in the **MkDocs-powered documentation**.  
+
+📝 To view the docs locally:
+```sh
+# Install dependencies
+pip install -r requirements.txt
+
+# Run MkDocs
+mkdocs serve
+```
+Then open **http://127.0.0.1:8000** in your browser.
+
+---
