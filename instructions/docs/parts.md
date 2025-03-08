@@ -14,13 +14,13 @@
 
 | Part Name                    | Status | Material            | Supports | Link |
 |------------------------------|--------|---------------------|----------|------|
-| Center_Front_bumper.stl      | ✅      | Standard           | Yes      | [🔗](https://github.com/CagriCatik/StreetBasher/blob/main/STLs/Chassis/Front-Bumper/Center_Front_bumper.stl) |
-| Front_body_brace_1.stl       | ❌      | Tough / Standard   | No       | [🔗](https://github.com/CagriCatik/StreetBasher/blob/main/STLs/Chassis/Front-Bumper/Front_body_brace_1.stl) |
-| Front_body_brace_2.stl       | ❌      | Tough / Standard   | No       | [🔗](https://github.com/CagriCatik/StreetBasher/blob/main/STLs/Chassis/Front-Bumper/Front_body_brace_2.stl) |
-| Front_body_brace_insert.stl  | ❌      | Standard           | No       | [🔗](https://github.com/CagriCatik/StreetBasher/blob/main/STLs/Chassis/Front-Bumper/Front_body_brace_insert.stl) |
-| Front_spliter.stl            | ❌      | Tough / Flexible   | No       | 🔗 |
-| Front_body.stl               | ❌      | Standard           | Yes      | 🔗 |
-| Front_brace.stl              | ❌      | Standard           | No       | 🔗 |
+| Center_Front_bumper.stl      | ✅      | Standard           | Yes      | [🔗](https://github.com/CagriCatik/StreetBasher/blob/main/stls/Chassis/Front-Bumper/Center_Front_bumper.stl) |
+| Front_body_brace_1.stl       | ✅      | Standard           | No       | [🔗](https://github.com/CagriCatik/StreetBasher/blob/main/stls/Chassis/Front-Bumper/Front_body_brace_1.stl) |
+| Front_body_brace_2.stl       | ✅      | Standard           | No       | [🔗](https://github.com/CagriCatik/StreetBasher/blob/main/stls/Chassis/Front-Bumper/Front_body_brace_2.stl) |
+| Front_body_brace_insert.stl  | ✅      | Standard           | No       | [🔗](https://github.com/CagriCatik/StreetBasher/blob/main/stls/Chassis/Front-Bumper/Front_body_brace_insert.stl) |
+| Front_spliter.stl            | ❌      | Tough / Flexible   | No       | [🔗](https://github.com/CagriCatik/StreetBasher/blob/main/stls/Chassis/Front-Bumper/Front_spliter.stl) |
+| Front_body.stl               | ❌      | Standard           | Yes      | [🔗](https://github.com/CagriCatik/StreetBasher/blob/main/stls/Chassis/Front_body.stl) |
+| Front_brace.stl              | ❌      | Standard           | No       | [🔗](https://github.com/CagriCatik/StreetBasher/blob/main/stls/Chassis/Front_brace.stl) |
 
 ### Rear Parts
 
