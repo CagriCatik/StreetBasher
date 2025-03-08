@@ -58,8 +58,8 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Getting Started:
-      - Bill of Materials: docs/bom.md
-      - Parts: docs/parts.md
+      - Bill of Materials: bom.md
+      - Parts: parts.md
   - Guide:
-      - Technical Specification: docs/guide/01_technical_specification.md
-      - Chassis Main: docs/guide/02_chassis_main.md
+      - Technical Specification: guide/01_technical_specification.md
+      - Chassis Main: guide/02_chassis_main.md
