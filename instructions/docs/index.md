@@ -11,7 +11,7 @@
 A detailed, step-by-step manual for assembling your StreetBasher, from start to finish.
 
 ### 2. **Bill of Materials (BOM)**  
-- 📋 [View the Bill of Materials]())  
+- 📋 [View the Bill of Materials]()
 A comprehensive list of all the components and materials you'll need for the build.
 
 ### 3. **Printed Parts**  
