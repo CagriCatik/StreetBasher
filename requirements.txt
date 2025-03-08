@@ -1,13 +1,6 @@
-# Core MkDocs
 mkdocs>=1.6
-
-# MkDocs Material Theme
 mkdocs-material>=9.6.7
-
-# MkDocs Plugins
-mkdocstrings[python]>=0.28.2   # For generating API documentation
-mkdocs-glightbox>=0.3.2        # For image lightbox viewing
-mkdocs-autorefs>=1.4.0         # For automatic cross-referencing
-
-# Markdown Extensions for MkDocs
-pymdown-extensions>=10.14.3    # Extra markdown features like code highlighting, tabbed content, details
+mkdocstrings[python]>=0.28.2
+mkdocs-glightbox>=0.3.2
+mkdocs-autorefs>=1.4.0
+pymdown-extensions>=10.14.3

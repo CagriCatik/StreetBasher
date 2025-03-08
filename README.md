@@ -64,3 +64,5 @@ mkdocs serve
 Then open **http://127.0.0.1:8000** in your browser.
 
 ---
+
+**Source:** [StreetBasher on Printables](https://www.printables.com/model/700706-street-basher-3d-printed-rc-car-17)

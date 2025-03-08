@@ -7,19 +7,19 @@
 ## Project Resources
 
 ### 1. **Build Guide**  
-- 📄 [Download the Build Guide](./DOCS/original/Build_Guide_StreetBASHER.pdf)  
+- 📄 [Download the Build Guide]()  
 A detailed, step-by-step manual for assembling your StreetBasher, from start to finish.
 
 ### 2. **Bill of Materials (BOM)**  
-- 📋 [View the Bill of Materials](./DOCS/bom.md)  
+- 📋 [View the Bill of Materials]())  
 A comprehensive list of all the components and materials you'll need for the build.
 
 ### 3. **Printed Parts**  
-- 🖨️ [Access Printed Part Details](./DOCS/parts.md)  
+- 🖨️ [Access Printed Part Details]()  
 Specifications and downloadable STL files for the 3D-printed components of the project.
 
 ### 4. **SolidWorks Parts**  
-- 💻 [Download SolidWorks Files](./DOCS/sldprt.md)  
+- 💻 [Download SolidWorks Files]()  
 CAD files for those who want to modify, analyze, or customize the design.
 
 ### 5. **3D Tuning Guide**  
