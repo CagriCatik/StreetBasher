@@ -87,28 +87,48 @@
 | Battery_tray_R.stl                | ✅     | Standard   | Yes      | [🔗](https://github.com/CagriCatik/StreetBasher/blob/main/stls/Electronics/Battery_tray_R.stl) |
 | Ele_box_body_WP8BL150.stl         | ❌     | Standard   | Yes      | [🔗](https://github.com/CagriCatik/StreetBasher/blob/main/stls/Electronics/Ele_box_body_WP8BL150.stl) |
 | Ele_box_body_ESC.stl              | ❌     | Standard   | Yes      | [🔗](https://github.com/CagriCatik/StreetBasher/blob/main/stls/Electronics/Ele_box_body_ESC.stl) |
-| Ele_cover.stl                     | ❌     | Standard   | Yes      | [🔗](https://github.com/CagriCatik/StreetBasher/blob/main/stls/Electronics/Ele_cover.stl) |
-| Fan_shroud.stl                    | ❌     | Standard   | No       | [🔗](https://github.com/CagriCatik/StreetBasher/blob/main/stls/Electronics/Fan_shroud.stl) |
+| Ele_cover.stl                     | ✅     | Standard   | Yes      | [🔗](https://github.com/CagriCatik/StreetBasher/blob/main/stls/Electronics/Ele_cover.stl) |
+| Fan_shroud.stl                    | ✅     | Standard   | No       | [🔗](https://github.com/CagriCatik/StreetBasher/blob/main/stls/Electronics/Fan_shroud.stl) |
 | On_Off_switch_holder_WP8BL150.stl | ❌     | Standard   | Yes      | [🔗](https://github.com/CagriCatik/StreetBasher/blob/main/stls/Electronics/On_Off_switch_holder_WP8BL150.stl) |
 
 ---
 
 ## Differential
 
+### Front
+
 | Part Name               | Status | Material         | Supports | Link |
 |-------------------------|--------|------------------|----------|------|
-| Diff_body.stl           | ❌     | Tough            | Yes      | [🔗](https://github.com/CagriCatik/StreetBasher/blob/main/stls/Differential/Diff_body.stl) |
-| Diff_cover.stl          | ❌     | Tough / Standard | Yes      | [🔗](https://github.com/CagriCatik/StreetBasher/blob/main/stls/Differential/Diff_cover.stl) |
-| Diff_sway_bar_cover.stl | ❌     | Standard         | Yes      | [🔗](https://github.com/CagriCatik/StreetBasher/blob/main/stls/Differential/Diff_sway_bar_cover.stl) |
+| Diff_body.stl           | ✅     | Tough            | Yes      | [🔗](https://github.com/CagriCatik/StreetBasher/blob/main/stls/Differential/Front/Diff_body.stl) |
+| Diff_cover.stl          | ✅     | Tough / Standard | Yes      | [🔗](https://github.com/CagriCatik/StreetBasher/blob/main/stls/Differential/Front/Diff_cover.stl) |
+| Diff_sway_bar_cover.stl | ✅     | Standard         | Yes      | [🔗](https://github.com/CagriCatik/StreetBasher/blob/main/stls/Differential/Front/Diff_sway_bar_cover.stl) |
+
+
+### Rear
+
+| Part Name               | Status | Material         | Supports | Link |
+|-------------------------|--------|------------------|----------|------|
+| Diff_body.stl           | ✅     | Tough            | Yes      | [🔗](https://github.com/CagriCatik/StreetBasher/blob/main/stls/Differential/Rear/Diff_body.stl) |
+| Diff_cover.stl          | ✅     | Tough / Standard | Yes      | [🔗](https://github.com/CagriCatik/StreetBasher/blob/main/stls/Differential/Rear/Diff_cover.stl) |
+| Diff_sway_bar_cover.stl | ❌     | Standard         | Yes      | [🔗](https://github.com/CagriCatik/StreetBasher/blob/main/stls/Differential/Rear/Diff_sway_bar_cover.stl) |
 
 ---
 
 ## Sway Bar
 
+### Front
+
 | Part Name             | Status | Material  | Supports | Link |
 |-----------------------|--------|-----------|----------|------|
-| Sway_bar_joint_x2.stl | ❌     | Tough     | No       | [🔗](https://github.com/CagriCatik/StreetBasher/blob/main/stls/Sway-Bar/Sway_bar_joint_x2.stl) |
-| Sway_bar_link_x2.stl  | ❌     | Tough     | No       | [🔗](https://github.com/CagriCatik/StreetBasher/blob/main/stls/Sway-Bar/Sway_bar_link_x2.stl) |
+| Sway_bar_joint_x2.stl | ❌     | Tough     | No       | [🔗](https://github.com/CagriCatik/StreetBasher/blob/main/stls/Sway-Bar/Front/Sway_bar_joint_x2.stl) |
+| Sway_bar_link_x2.stl  | ❌     | Tough     | No       | [🔗](https://github.com/CagriCatik/StreetBasher/blob/main/stls/Sway-Bar/Front/Sway_bar_link_x2.stl) |
+
+### Rear
+
+| Part Name             | Status | Material  | Supports | Link |
+|-----------------------|--------|-----------|----------|------|
+| Sway_bar_joint_x2.stl | ❌     | Tough     | No       | [🔗](https://github.com/CagriCatik/StreetBasher/blob/main/stls/Sway-Bar/Rear/Sway_bar_joint_x2.stl) |
+| Sway_bar_link_x2.stl  | ❌     | Tough     | No       | [🔗](https://github.com/CagriCatik/StreetBasher/blob/main/stls/Sway-Bar/Rear/Sway_bar_link_x2.stl) |
 
 ---
 
@@ -159,13 +179,13 @@
 
 | Part Name                   | Status | Material  | Supports | Link |
 |-----------------------------|--------|-----------|----------|------|
-| Left_shaft_arm.stl          | ❌     | Tough     | Yes      | [🔗](https://github.com/CagriCatik/StreetBasher/blob/main/stls/Steering/Left_shaft_arm.stl) |
-| Right_tower_lower.stl       | ❌     | Tough     | Yes      | [🔗](https://github.com/CagriCatik/StreetBasher/blob/main/stls/Steering/Right_tower_lower.stl) |
-| Right_tower_upper.stl       | ❌     | Tough     | Yes      | [🔗](https://github.com/CagriCatik/StreetBasher/blob/main/stls/Steering/Right_tower_upper.stl) |
-| Servo_joint.stl             | ❌     | Tough     | No       | [🔗](https://github.com/CagriCatik/StreetBasher/blob/main/stls/Steering/Servo_joint.stl) |
-| Servo_saver_to_link.stl     | ❌     | Tough     | Yes      | [🔗](https://github.com/CagriCatik/StreetBasher/blob/main/stls/Steering/Servo_saver_to_link.stl) |
-| Servo_saver_top.stl         | ❌     | Tough     | Yes      | [🔗](https://github.com/CagriCatik/StreetBasher/blob/main/stls/Steering/Servo_saver_top.stl) |
-| Steering_center.stl         | ❌     | Tough     | Yes      | [🔗](https://github.com/CagriCatik/StreetBasher/blob/main/stls/Steering/Steering_center.stl) |
+| Left_shaft_arm.stl          | ✅     | Tough     | Yes      | [🔗](https://github.com/CagriCatik/StreetBasher/blob/main/stls/Steering/Left_shaft_arm.stl) |
+| Right_tower_lower.stl       | ✅     | Tough     | Yes      | [🔗](https://github.com/CagriCatik/StreetBasher/blob/main/stls/Steering/Right_tower_lower.stl) |
+| Right_tower_upper.stl       | ✅     | Tough     | Yes      | [🔗](https://github.com/CagriCatik/StreetBasher/blob/main/stls/Steering/Right_tower_upper.stl) |
+| Servo_joint.stl             | ✅     | Tough     | No       | [🔗](https://github.com/CagriCatik/StreetBasher/blob/main/stls/Steering/Servo_joint.stl) |
+| Servo_saver_to_link.stl     | ✅     | Tough     | Yes      | [🔗](https://github.com/CagriCatik/StreetBasher/blob/main/stls/Steering/Servo_saver_to_link.stl) |
+| Servo_saver_top.stl         | ✅     | Tough     | Yes      | [🔗](https://github.com/CagriCatik/StreetBasher/blob/main/stls/Steering/Servo_saver_top.stl) |
+| Steering_center.stl         | ✅     | Tough     | Yes      | [🔗](https://github.com/CagriCatik/StreetBasher/blob/main/stls/Steering/Steering_center.stl) |
 | Steering_shaft_x4.stl       | ❌     | Tough     | No       | [🔗](https://github.com/CagriCatik/StreetBasher/blob/main/stls/Steering/Steering_shaft_x4.stl) |
 
 ---
