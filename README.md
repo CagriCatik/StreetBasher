@@ -55,10 +55,20 @@ Once built, fine-tune it using the tuning instructions for **better handling and
 
 ---
 
-## **Documentation**
-Complete guides and tutorials are available in the **MkDocs-powered documentation**.
+Complete guides, 3D model previews, and technical tutorials are available in the official documentation portal.
 
-To view the docs locally:
+[**View Documentation Portal**](https://cagricatik.github.io/StreetBasher/)
+
+---
+
+## **Documentation Highlights**
+- **Interaktive 3D Previews**: View every part directly in your browser.
+- **Detailed BOM**: Full parts list with direct purchase links and cost analysis.
+- **Assembly Guides**: Step-by-step instructions for a successful build.
+
+---
+
+## **Getting Started**
 ```sh
 # Install dependencies
 pip install -r requirements.txt

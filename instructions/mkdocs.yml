@@ -32,11 +32,11 @@ theme:
 
 plugins:
   - search
+  - glightbox
   - mkdocstrings:
       default_handler: python
       handlers:
         python:
-          paths: [src]
           options:
             show_source: true
             show_root_heading: true
@@ -55,11 +55,34 @@ markdown_extensions:
   - pymdownx.mark
   - attr_list
 
+extra_javascript:
+  - type: module
+    path: javascripts/stl-viewer-module.js
+
+extra_css:
+  - stylesheets/extra.css
+
 nav:
   - Home: index.md
   - Getting Started:
       - Bill of Materials: bom.md
-      - Parts: parts.md
-  - Guide:
-      - Technical Specification: guide/01_technical_specification.md
-      - Chassis Main: guide/02_chassis_main.md
+      - Cost Analysis: cost_analysis.md
+      - Parts Inventory: parts.md
+  - Technical Documentation:
+      - Quick Start Guide: guide/01_technical_specification.md
+      - Chassis Assembly: guide/02_chassis_main.md
+  - 3D Component Previews:
+      - Body Roll Cage: parts_previews/preview_body_roll_cage.md
+      - Center Drive: parts_previews/preview_center_drive.md
+      - Chassis: parts_previews/preview_chassis.md
+      - Differential: parts_previews/preview_differential.md
+      - Electronics: parts_previews/preview_electronics.md
+      - Front Suspension: parts_previews/preview_front_suspension.md
+      - Rear Suspension: parts_previews/preview_rear_suspension.md
+      - Steering: parts_previews/preview_steering.md
+      - Sway Bar: parts_previews/preview_sway_bar.md
+      - Wing: parts_previews/preview_wing.md
+      - Tools & Helpers: parts_previews/preview_test_and_help.md
+  - Resources:
+      - Downloads: resources.md
+      - CAD Source Files: cad_files.md
