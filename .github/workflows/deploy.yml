@@ -15,7 +15,7 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     env:
-      GH_PAT: ${{ secrets.MKDOCS_TOKEN }}
+      GH_PAT: ${{ secrets.MKDOCS_DEPLOY_TOKEN }}
 
     steps:
       - name: Checkout Repository
